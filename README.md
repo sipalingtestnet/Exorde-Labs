@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img height="150" height="auto" src="https://user-images.githubusercontent.com/38981255/200131380-6f87a774-fde7-43ce-b2df-9f1eb3ab3158.JPG">
+  <img height="150" height="auto" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ha4gdmlx2mwrnobecnqe">
 </p>
 
 
